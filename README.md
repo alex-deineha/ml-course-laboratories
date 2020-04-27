@@ -1,1 +1,1 @@
-# ml-course-laboratories
+# My solutions of university ML laboratories.
